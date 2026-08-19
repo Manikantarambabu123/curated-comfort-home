@@ -1,4 +1,4 @@
-import { Link } from "@tanstack/react-router";
+import { PageLink as Link } from "./PageLink";
 import { Facebook, Instagram, Youtube } from "lucide-react";
 
 const columns = [

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Link } from "@tanstack/react-router";
+import { PageLink as Link } from "./PageLink";
 import { Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Rating } from "./Rating";

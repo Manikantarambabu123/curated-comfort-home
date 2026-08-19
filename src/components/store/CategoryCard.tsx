@@ -1,4 +1,4 @@
-import { Link } from "@tanstack/react-router";
+import { PageLink as Link } from "./PageLink";
 import { ArrowUpRight } from "lucide-react";
 import type { Category } from "@/data/products";
 

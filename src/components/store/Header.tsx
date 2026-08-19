@@ -1,4 +1,4 @@
-import { Link } from "@tanstack/react-router";
+import { PageLink as Link } from "./PageLink";
 import { useEffect, useState } from "react";
 import { Heart, Menu, Search, ShoppingBag, User, X } from "lucide-react";
 import { cn } from "@/lib/utils";
